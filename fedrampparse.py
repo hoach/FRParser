@@ -16,7 +16,7 @@ if not os.path.exists(newpath):
 	os.makedirs(newpath)
 	
 #Get the user's email address
-mailaddr = ('matthouy@gmail.com')##'mhouy@verisgroup.com', 'gguercio@verisgroup.com', 'ncahall@verisgroup.com', 'mcarter@verisgroup.com', 'amsmith@verisgroup.com', 'mcaruso@verisgroup.com', 'QA@verisgroup.com')
+mailaddr = ('matthouy@gmail.com')
 
 #File location where the documentation will be downloaded locally
 download_pwd = '//mnt/c/Users/Matthew\ Houy/Documents/Python/FedRAMPParser/FedRAMPAuthoritative'
